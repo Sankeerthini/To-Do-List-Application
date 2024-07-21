@@ -4,7 +4,7 @@
 
 This To-Do List Application is designed to help users manage their tasks efficiently. Built using React and React-Bootstrap, this project demonstrates the core concepts of React and provides a user-friendly interface for task management. The application allows users to create, edit, complete, and delete tasks, with an optional description and deadline for each task.
 
-[Live Demo](https://sankeerthini.github.io/To-Do-List-Application/).
+[Live Demo](https://sankeerthini.github.io/To-Do-List-Application/)
 
 
 ## Features
@@ -37,3 +37,4 @@ This To-Do List Application is designed to help users manage their tasks efficie
 - **JavaScript**: Implementing functionality and interactivity.
 - **React**: Building reusable components and managing application state.
 
+Feel free to reach out if you have any questions or suggestions for improvement. Happy coding!
