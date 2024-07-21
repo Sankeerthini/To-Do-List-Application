@@ -1,0 +1,42 @@
+/* src/App.css */
+.completed h5 {
+  text-decoration: line-through;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  height: 50px;  /* Set a fixed height for the footer */
+  line-height: 20px;  /* Align text vertically within the footer */
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  flex: 1;
+  padding-bottom: 60px; /* Ensure enough space for the footer */
+}
+
+.bg-option {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  cursor: pointer;
+  background-size: cover;
+  border: 2px solid #ddd;
+}
+
+.bg-option:hover {
+  border-color: #333;
+}
