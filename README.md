@@ -6,6 +6,7 @@ This To-Do List Application is designed to help users manage their tasks efficie
 
 [Live Demo](https://sankeerthini.github.io/To-Do-List-Application/)
 
+![To-Do List](images/demo.png)
 
 ## Features
 
